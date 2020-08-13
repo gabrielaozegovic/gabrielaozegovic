@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 
+
+<img align="left" alt="gabrielaozegovic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaozegovic&show_icons=true&hide_border=true" />
 <!--
 **gabrielaozegovic/gabrielaozegovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
