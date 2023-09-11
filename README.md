@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### About me:
-- 🔭 I’m currently working on my Master studies
-- 🌱 I’m currently learning Django and improving my Python knowlegde
+- 🔭 I’m currently working on my second Master studies
+- 🌱 I’m currently improving my Python knowlegde
 - 😎 My interests are data science and analysis 
 
 ---
